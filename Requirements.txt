@@ -1,0 +1,9 @@
+You'll need to install pandas using pip (the Python package installer). The other libraries like os, logging, re, configparser, collections, and datetime are part of the Python standard library and don't require separate installation.
+
+Here are the terminal commands to install the required package:
+
+pip install pandas
+Note: If you have both Python 2 and Python 3 installed on your machine, you might need to use pip3 instead of pip to ensure you're installing the package for Python 3:
+
+pip3 install pandas
+After running the above command, you should have pandas installed and ready to use.
